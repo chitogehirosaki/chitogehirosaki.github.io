@@ -1,0 +1,12 @@
+# Site settings
+title:Hirosaki Facebook Tool
+email:minhit264@viendong.edu.vn
+description: Chúng tôi đem đến một số công cụ mà bạn cần
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "chitogehirosaki.github.io" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
